@@ -88,6 +88,7 @@ h4 {
 	margin-top: 7%;
 	list-style: none;
 	display:flex;
+	cursor:pointer;
 }
 #links li {
 	margin-left: 35%;
